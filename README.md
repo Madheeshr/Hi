@@ -51,6 +51,5 @@ Procedure
 4. Now do the same with the dataset for Beagle and Golden Retriever. Then click “Train Model”.
  
 5. Test your model.
-
-•	click on the Test option, then browse to upload your test dataset (my test data contain mixture of all 3 types of dog breeds).
-•	once you upload your test data, it will automatically start analyzing all images.
+ click on the Test option, then browse to upload your test dataset (my test data contain mixture of all 3 types of dog breeds).
+	once you upload your test data, it will automatically start analyzing all images.
