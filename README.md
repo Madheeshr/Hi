@@ -3,6 +3,7 @@ IBM WATSON IMAGE RECOGNITION
 IBM Watson Visual Recognition is a tool that uses deep learning algorithms to analyze images and allow users to automatically identify subjects and objects contained within the image and organize and classify these images into categories. the interesting part is that it allows you to build your own custom image classifiers and then train and test those models in the cloud itself.
 
 What you will learn from this?
+
 You will utilize IBM Watson Visual Recognition (VR) to upload and classify your images using custom image classifiers built by you.
 What you will require?
 •	IBM Cloud account (A credit card is NOT required to sign up for IBM Cloud Lite account and there is no charge associated in creating a Lite plan instance of the Watson Discovery service).
