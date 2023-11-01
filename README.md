@@ -5,9 +5,12 @@ IBM Watson Visual Recognition is a tool that uses deep learning algorithms to an
 What you will learn from this?
 
 You will utilize IBM Watson Visual Recognition (VR) to upload and classify your images using custom image classifiers built by you.
+
 What you will require?
+
 •	IBM Cloud account (A credit card is NOT required to sign up for IBM Cloud Lite account and there is no charge associated in creating a Lite plan instance of the Watson Discovery service).
 •	Device with good internet connection.
+
 You should see following dashboard after completing the guide till step 7 as mentioned in the prerequisites.
           For the custom model that we are creating in the visual recognition service, we are classifying 3 breeds of dogs. You can use any class of any objects like fruits, logos, different time of days like morning, afternoon, evening and night.
 
