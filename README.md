@@ -1,4 +1,5 @@
 IBM WATSON IMAGE RECOGNITION
+
 IBM Watson Visual Recognition is a tool that uses deep learning algorithms to analyze images and allow users to automatically identify subjects and objects contained within the image and organize and classify these images into categories. the interesting part is that it allows you to build your own custom image classifiers and then train and test those models in the cloud itself.
 
 What you will learn from this?
