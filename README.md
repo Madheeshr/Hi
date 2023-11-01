@@ -43,9 +43,10 @@ Procedure
 
 1. Start by creating our first class for training. click on create a class tab.
     on next screen enter the name for your class. Let’s start with Husky, so we name our first class Husky.
-2. Upload training dataset.      click on Browse, and select the dataset file (.zip file) which contains the training images for your class. i have chosen husky.
-3. Add the uploaded dataset to your model.  click on the checkbox next to Husky.zip (in my case) and then click on Add to Model.
-4. Now do the same with the dataset for Beagle and Golden Retriever. Then click “Train Model”.
+   
+3. Upload training dataset.     click on Browse, and select the dataset file (.zip file) which contains the training images for your class. i have chosen husky. 
+4. Add the uploaded dataset to your model.  click on the checkbox next to Husky.zip (in my case) and then click on Add to Model.
+5. Now do the same with the dataset for Beagle and Golden Retriever. Then click “Train Model”.
 5: Test your model.
 •	click on the Test option, then browse to upload your test dataset (my test data contain mixture of all 3 types of dog breeds).
 •	once you upload your test data, it will automatically start analyzing all images.
